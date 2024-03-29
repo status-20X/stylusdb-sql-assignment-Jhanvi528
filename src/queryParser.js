@@ -55,7 +55,6 @@ function parseQuery (query) {
     joinCondition,
     groupByFields,
     hasAggregateWithoutGroupBy
-
   }
 }
 
